@@ -2,7 +2,7 @@
 
 # Plantilla de tareas
 
-Este es mi CV https://qlab-intro-python.github.io/trabajo-final-trabajofinal_sanchez_mamani/ 
+Este es mi CV https://qlab-intro-python.github.io/trabajofinal_sanchez_mamani/ 
 
 ## Información general
 
